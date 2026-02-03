@@ -6,7 +6,7 @@ I specialize in **GenAI/LLM applications**, deep learning, and full-stack ML—f
 
 ## What I'm Working On
 
-- **[AvaTune.ai](https://avatune.ai)** — AI portrait platform using fine-tuned Stable Diffusion
+- **[Avatune.ai](https://avatune.ai)** — AI portrait platform using fine-tuned Stable Diffusion
 - **NanoVoice** — macOS menu bar app for instant audio transcription (Swift + Whisper)
 - **Snowball** — Personal trading system with LLM-assisted analysis
 
